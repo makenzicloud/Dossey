@@ -8,6 +8,7 @@ contract DistributeTokens {
 
     constructor() {
         owner = msg.sender;
+        
     }
 
     function invest() public payable {
