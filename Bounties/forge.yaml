@@ -1,7 +1,0 @@
-solidity:
- version: "0.8.0" # Specify the Solidity compiler version
- settings:
-    optimizer:
-      enabled: true
-      runs: 200
-    evmVersion: "istanbul" # Specify the EVM version here
